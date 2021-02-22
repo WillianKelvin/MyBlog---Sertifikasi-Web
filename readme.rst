@@ -1,4 +1,10 @@
 ###################
+MyBlog - My Activities Journey
+###################
+This project for assignment Web Programming Sertification build with CodeIgniter-3 and postgresql.
+
+-------------------------------------------------------------------------------------------
+###################
 What is CodeIgniter
 ###################
 
